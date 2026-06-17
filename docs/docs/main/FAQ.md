@@ -11,16 +11,12 @@ while also providing a high degree of freedom and flexibility for users.
 ## How do I install BioNeMo Recipes?
 
 You can install individual recipe directories from within BioNeMo Recipes by following the corresponding
-README pages the [BioNeMo Recipes GitHub](https://github.com/NVIDIA-BioNeMo/bionemo-framework). Please note that this is a
-beta feature and may require some additional effort to install seamlessly. We are actively working on testing this
-functionality and expect it will be a fully supported feature in future releases. You can review our
-[release notes](../about/releasenotes-fw.md) to stay up to
-date on our releases.
+README pages the [BioNeMo Recipes GitHub](https://github.com/NVIDIA-BioNeMo/bionemo-framework).
 
 ## What are the system requirements for BioNeMo Recipes?
 
 Generally, BioNeMo Recipes should run on any NVIDIA GPU with Compute Capability ≥8.0. For a full list of supported
-hardware, refer to the [Hardware and Software Prerequisites](../getting-started/pre-reqs.md).
+hardware, refer to the [Hardware and Software Prerequisites](getting-started/pre-reqs.md).
 
 ## Can I contribute code or models to BioNeMo Recipes?
 
@@ -33,8 +29,8 @@ tokenizers, custom architecture blocks, and other reusable features over end-to-
 consider end-to-end model implementations on a case-by-case basis. If you're interested in this contribution of this
 kind, we recommend [reaching out to us](https://www.nvidia.com/en-us/industries/healthcare/contact-sales/) first
 
-For more information about external contributions, refer to the [Contributing](../contributing/contributing.md) and
-[Code Review](../contributing/code-review.md) pages.
+For more information about external contributions, refer to the [Contributing](contributing/contributing.md) and
+[Code Review](contributing/code-review.md) pages.
 
 ## How do I report bugs or suggest new features?
 
